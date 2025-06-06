@@ -1,0 +1,12 @@
+flask
+openai
+requests
+python-dotenv
+gunicorn
+flask-cors
+jinja2
+beautifulsoup4
+markdown
+fastapi
+uvicorn
+aiohttp
